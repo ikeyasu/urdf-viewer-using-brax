@@ -1,7 +1,16 @@
 URDF Viewer using brax
 =========
 
-This is simple [URDF XML file](http://wiki.ros.org/en/urdf/Tutorials)viewer using [BRAX](https://github.com/google/brax).
+This is simple [URDF XML file](http://wiki.ros.org/en/urdf/Tutorials) viewer using [BRAX](https://github.com/google/brax).
+
+Install
+-------
+
+```
+$ pip install git+https://github.com/google/brax.git@main
+```
+
+NOTE: `pip install brax` may be old to run this script.
 
 How to use
 ----------
